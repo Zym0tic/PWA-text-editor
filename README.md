@@ -20,7 +20,8 @@
 
   ## Usage 
 
-  ![image of full app](assets/images/localhost_3000_.png)
+  ![image of full app](assets/images/screenshot.png)
+  deployed app: https://blooming-sierra-07568.herokuapp.com/
 
 
 
